@@ -1,8 +1,0 @@
-##fileformat=VCFv4.3
-##FILTER=<ID=PASS,Description="All filters passed">
-##contig=<ID=1>
-##fileDate=20221213
-##reference=HG38
-#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
-1	16022747	.	G	C	.	.	.
-1	16022748	.	C	CT	.	.	.

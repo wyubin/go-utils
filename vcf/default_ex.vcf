@@ -1,6 +1,0 @@
-##fileformat=VCFv4.3
-##reference=HG38
-##contig=<ID=1>
-##contig=<ID=2>
-##FILTER=<ID=PASS,Description="All filters passed">
-##INFO=<ID=VEP_Symbol,Number=1,Type=String,Description="VEP SYMBOL">
