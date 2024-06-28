@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"ailab.com/vcfgo/utils/pathutils"
+	"github.com/wyubin/go-utils/pathutils"
 	"github.com/stretchr/testify/assert"
 )
 

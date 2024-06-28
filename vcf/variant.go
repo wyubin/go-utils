@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"ailab.com/vcfgo/utils/maptool"
+	"github.com/wyubin/go-utils/maptool"
 )
 
 // variant object for vcf row

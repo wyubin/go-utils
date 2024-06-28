@@ -3,7 +3,7 @@ package vcf
 import (
 	"strings"
 
-	"ailab.com/vcfgo/utils/e"
+	"github.com/wyubin/go-utils/e"
 )
 
 func Tsv2map(line string, colnames []string) (map[string]string, error) {

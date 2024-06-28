@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"regexp"
 
-	"ailab.com/vcfgo/utils/re/base"
+	"github.com/wyubin/go-utils/re/base"
 )
 
 var (

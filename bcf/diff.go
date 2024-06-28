@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"strconv"
 
-	"ailab.com/vcfgo/utils/maptool"
+	"github.com/wyubin/go-utils/maptool"
 )
 
 var (

@@ -7,7 +7,7 @@ import (
 
 	"slices"
 
-	"ailab.com/vcfgo/utils/vcf"
+	"github.com/wyubin/go-utils/vcf"
 )
 
 func (s *Bcf) GetHeader(pathSrc string, tagTypes ...string) ([]vcf.Header, error) {

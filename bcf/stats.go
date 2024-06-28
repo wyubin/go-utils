@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"ailab.com/vcfgo/utils/maptool"
+	"github.com/wyubin/go-utils/maptool"
 )
 
 // stats funcs
